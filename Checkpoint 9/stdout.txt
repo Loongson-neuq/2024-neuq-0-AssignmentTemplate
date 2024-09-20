@@ -1,0 +1,6 @@
+You input three numbers: -10, -100, -1000
+Your result is:
+  min: -10
+  mid: -100
+  max: -1000
+Sorry, you didn't pass the test.
